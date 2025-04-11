@@ -7,7 +7,7 @@ import numpy as np
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 # Replace with your Render backend URL
-BACKEND_URL = "https://cnn-backend-604g.onrender.com/predict"
+BACKEND_URL = "https://cnn-back1.onrender.com/predict"
 
 # Custom CSS for styling
 st.markdown(
